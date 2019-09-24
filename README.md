@@ -1,3 +1,4 @@
 # my_resource
-我的资源  
+collect  
+resource
 
